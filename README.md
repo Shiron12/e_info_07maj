@@ -1,5 +1,5 @@
 # e_info_07maj
-INFORMATIKA EMELT SYINTŰ GYAKORLATI VIZSGA 2007maj
+INFORMATIKA EMELT SZINTŰ GYAKORLATI VIZSGA 2007maj
 
 Informatikai éretségi programozás része python programozási nyelven megoldva.
 
